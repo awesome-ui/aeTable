@@ -1,0 +1,9 @@
+{
+    "name": "aeTable", "version": "0.0.1",
+
+    "dependencies": {
+        "angular": "latest"
+    },
+
+    "license": "GPL"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "aeTable", "version": "0.0.1",
+
+    "repository": "awesome-ui/aeTable",
+
+    "scripts": {
+        "start": "gulp"
+    },
+
+    "devDependencies": {
+        "gulp": "latest",
+        "gulp-ng-annotate": "latest",
+        "gulp-uglify": "latest",
+        "gulp-rename": "latest",
+        "gulp-less": "latest",
+        "gulp-autoprefixer": "latest"
+    },
+
+    "license": "GPL"
+}
